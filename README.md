@@ -37,13 +37,17 @@ As a sports enthusiast, I'm excited to apply my data analysis skills to the worl
 
 ### My fav quoutes
 **Heraclito** <br>
-Change is the only constant 
+"Change is the only constant"
 
 **Rudyar Kipling**<br>
 "I keep six honest serving-men<br>
 (They taught me all I knew);<br>
 Their names are *What*, *Why*, *When*<br>
 And *How* and *Where* and *Who*."<br>
+
+**Rudyar Kipling**<br>
+"Everybody should learn how to pogram a computer...<br>
+because it teaches you how to thing<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imjoseba&icon=2&color=0)](https://visitcount.itsvg.in)
