@@ -1,19 +1,19 @@
-## :boat: WELCOME ON BOARD!
+## WELCOME ON BOARD! :boat:
 Have look to my repositories to see my path from scratch to Data Analyst :bar_chart: :metal: :)
 
 
-## :star: About me... <br>
+## :octocat: About me... <br>
 
 :soccer: :basketball: :football: :baseball: :rugby_football: :tennis: <br>
 I'm Joseba, a Data Analyst with a strong background in sports. Leveraging my Bachelor's Degree in Sports and Exercise Science I bring a unique blend of analytical expertise and industry knowledge to the table. My passion for data analysis is finely tuned to contribute meaningfully to the dynamic landscape of the sports industry.
 
 As a sports enthusiast, I'm excited to apply my data analysis skills to the world of sports. I believe data-driven insights can revolutionize sports performance. I'm eager to connect with individuals and organizations who share my passion for sports and data analysis. Let's explore opportunities to work together in the exciting field of sports analytics.
 
-:bicyclist: :mountain_bicyclist: :surfer: :swimmer: :ski:
+:bicyclist: :mountain_bicyclist: :surfer::snowboarder::swimmer: :ski:
 
 
 
-### 💻 Skills and Tools <br><br>
+### 💻 Skills and Tools :mag_right: <br><br>
 
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
