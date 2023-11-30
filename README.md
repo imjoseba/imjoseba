@@ -38,16 +38,16 @@ Feel free to send an **[email](jmorenoiriarte@gmail.com)** and/or connect on **[
 
 ### My fav quoutes
 **[Heraclitus](https://en.wikipedia.org/wiki/Heraclitus)** <br>
-"Change is the only constant"
+"*Change* is the only *constant*"
 
 **[Rudyar Kipling](https://en.wikipedia.org/wiki/Rudyard_Kipling)**<br>
 "I keep six honest serving-men<br>
-(They taught me all I knew);<br>
+(They *taught* me all I knew);<br>
 Their names are *What*, *Why*, *When*<br>
 And *How* and *Where* and *Who*."<br>
 
 **[Steve Jobs](https://en.wikipedia.org/wiki/Steve_Jobs)**<br>
-"Everybody should learn how to program a computer because it teaches you how to think"<br>
+"Everybody should learn how to *program* a computer because it teaches you *how to think*"<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imjoseba&icon=2&color=0)](https://visitcount.itsvg.in)
