@@ -1,11 +1,21 @@
-## 🌐 HELLO WORLD!
+## :boat: WELCOME ON BOARD!
+
 <center> <img src="DSREADME.gif"></center> <br><br>
 
 
-### Search my repositories if you are learning Data Science and write me on Linkedin for any doubt, <br> feel free like this snake to eat all my code :)
-![Snake animation](https://github.com/Demstalferez/Demstalferez/blob/output/github-contribution-grid-snake.svg)
+### Have look to my repositories to see my path from scratch to Data Analyst :bar_chart: :metal: :)
 
-## ⚡ Tech Stack <br>
+
+## :star: About me... <br>
+
+:soccer: :basketball: :football: :baseball: :rugby_football: :tennis: 
+I'm Joseba, a Data Analyst with a strong background in sports. Leveraging my Bachelor's Degree in Sports and Exercise Science I bring a unique blend of analytical expertise and industry knowledge to the table. My passion for data analysis is finely tuned to contribute meaningfully to the dynamic landscape of the sports industry.
+
+As a sports enthusiast, I'm excited to apply my data analysis skills to the world of sports. I believe data-driven insights can revolutionize sports performance. I'm eager to connect with individuals and organizations who share my passion for sports and data analysis. Let's explore opportunities to work together in the exciting field of sports analytics.
+
+:bicyclist: :mountain_bicyclist: :surfer: :swimmer: :ski:
+
+
 
 ### 💻 Data Science<br><br>
 
