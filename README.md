@@ -47,7 +47,7 @@ Their names are *What*, *Why*, *When*<br>
 And *How* and *Where* and *Who*."<br>
 
 **Steve Jobs**<br>
-"Everybody should learn how to pogram a computer because it teaches you how to thing"<br>
+"Everybody should learn how to program a computer because it teaches you how to think"<br>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imjoseba&icon=2&color=0)](https://visitcount.itsvg.in)
