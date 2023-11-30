@@ -33,6 +33,7 @@ As a sports enthusiast, I'm excited to apply my data analysis skills to the worl
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 
+Feel free to send an **[email](jmorenoiriarte@gmail.com)** and/or connect on **[LinkedIn](https://www.linkedin.com/in/imjoseba/)**
 
 
 ### My fav quoutes
@@ -45,9 +46,10 @@ As a sports enthusiast, I'm excited to apply my data analysis skills to the worl
 Their names are *What*, *Why*, *When*<br>
 And *How* and *Where* and *Who*."<br>
 
-**Rudyar Kipling**<br>
+**Steve Jobs**<br>
 "Everybody should learn how to pogram a computer...<br>
 because it teaches you how to thing<br>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=imjoseba&icon=2&color=0)](https://visitcount.itsvg.in)
