@@ -33,7 +33,11 @@ As a sports enthusiast, I'm excited to apply my data analysis skills to the worl
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 
 
-Feel free to send an **[email](jmorenoiriarte@gmail.com)** and/or connect on **[LinkedIn](https://www.linkedin.com/in/imjoseba/)**
+Feel free to send an email and/or connect:
+
+[![email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](jmorenoiriarte@gmail.com) 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imjoseba/)
 
 
 ### My fav quoutes
