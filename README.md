@@ -5,10 +5,19 @@ Have look to my repositories to see my path from scratch to Data Analyst :bar_ch
 ## :octocat: About me... <br>
 
 :soccer: :basketball: :football: :baseball: :rugby_football: :tennis: <br>
-I'm Joseba, a Data Analyst with a strong background in sports. Leveraging my Bachelor's Degree in Sports and Exercise Science I bring a unique blend of analytical expertise and industry knowledge to the table. My passion for data analysis is finely tuned to contribute meaningfully to the dynamic landscape of the sports industry.
+About me? 🤔 On my way to becoming a Data Analyst I’ve experienced a great transformation🚀.
 
-As a sports enthusiast, I'm excited to apply my data analysis skills to the world of sports. I believe data-driven insights can revolutionize sports performance. I'm eager to connect with individuals and organizations who share my passion for sports and data analysis. Let's explore opportunities to work together in the exciting field of sports analytics.
+The first day I opened Visual Studio Code seemed to me a simple black background, now it is a notebook where I can write my stories from data.📊
 
+Python and its libraries were a mystery, now they are the key 🔑 to unlock the potential of data! Thanks NumPy, Pandas, Openpyxl, Seaborn, Matplotlib, Plotly-Express, Wandb, Streamlit, SciPy, scikit-learn... With this I can do much more than I would have ever thought! 💻
+
+I also know how to use SQL, Web Scraping and APIs, make presentations in Power BI and develop an app in Streamlit 🌐
+
+Having learned all this in the last few months fills me with enthusiasm to continue improving and exploring tools such as AWS, GCP, Tableau and many others. 🤓👨‍🏫
+
+My previous professional experience helped me develop skills such as time management, critical thinking, attention to detail, communicative skills and of course multidisciplinary teamwork.
+
+Are you looking for someone passionate about data analysis, adaptable and able to quickly learn any new tool? Contact me and talk about how I can contribute to your project!🙋🏻‍♂️🤝👨🏻‍💻
 :bicyclist: :mountain_bicyclist: :surfer::snowboarder::swimmer: :ski:
 
 
