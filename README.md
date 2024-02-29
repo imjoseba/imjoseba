@@ -18,6 +18,7 @@ Having learned all this in the last few months fills me with enthusiasm to conti
 My previous professional experience helped me develop skills such as time management, critical thinking, attention to detail, communicative skills and of course multidisciplinary teamwork.
 
 Are you looking for someone passionate about data analysis, adaptable and able to quickly learn any new tool? Contact me and talk about how I can contribute to your project!🙋🏻‍♂️🤝👨🏻‍💻
+
 :bicyclist: :mountain_bicyclist: :surfer::snowboarder::swimmer: :ski:
 
 
